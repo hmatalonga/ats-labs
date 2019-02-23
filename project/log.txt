@@ -1,0 +1,8 @@
+login "Alaideassuncao@gmail.com" "QasF%" ;
+registar condutor "g_figueiredo@sapo.pt" "Gabi Figueiredo" "kPfa" "Rua David Mourao Ferreira, 725, 4435-202 Rio Tinto" 1997-12-05 59  ;
+registar empresa "servico taxi longiquo" "vUNkZ" ;
+registar cliente "EvelioTorres@mail.google.com" "Evelio Torres" "4vDNzW781" "Rua Jose Antunes, 1365, 2615-108 Alverca do Ribatejo" 1945-08-06 (75.5, 81.3) ;
+solicitar (62.8, 39.5) ;
+recusar viagem ;
+viajar;
+logout;
